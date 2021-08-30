@@ -2,7 +2,7 @@
 
 Pytorch re-implementation of some contrastive Learning methods
 
-Part of the codes is based on [BYOL]((https://github.com/lucidrains/byol-pytorch)
+Part of the codes is based on [BYOL](https://github.com/lucidrains/byol-pytorch)
 
 ## image level methods
 
