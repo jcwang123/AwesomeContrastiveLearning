@@ -4,6 +4,7 @@ Pytorch re-implementation of some contrastive Learning methods
 
 Part of the codes is based on [BYOL](https://github.com/lucidrains/byol-pytorch)
 
+We try our best to encapsulate all training codes into a class named **Learner**
 ## image level methods
 
 - [x] Exploring SimCLR: A Simple Framework for Contrastive Learning of Visual Representations [SimCLR](https://github.com/sthalles/SimCLR)
