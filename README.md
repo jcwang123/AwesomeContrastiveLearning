@@ -1,4 +1,4 @@
-# AwesomeContrastiveLearning
+# Awesome Contrastive Learning
 
 Pytorch re-implementation of some contrastive Learning methods
 
